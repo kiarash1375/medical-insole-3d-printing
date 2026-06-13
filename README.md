@@ -1,5 +1,5 @@
 # Medical Insole 3D Printing System
-
+![printed insoles samples](images/printed_insoles_sample.png)![3d printer](images/3d_printer.jpg)
 ## Overview
 
 Custom 3D printing workflow developed for the production of orthopedic and medical insoles.
